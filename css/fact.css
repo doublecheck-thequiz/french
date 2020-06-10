@@ -563,8 +563,13 @@ a:hover {
   cursor: pointer;
 }
 
+.wardiv {
+  text-align: center;
+}
+
 #war {
   padding-top: 5%;
+  width: 80%;
 }
 
 .buttons {
